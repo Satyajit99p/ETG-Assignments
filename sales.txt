@@ -1,0 +1,1 @@
+{"1": {"item": "Colgate", "quantity": 5, "price": 45.0, "SP": 43.199999999999996, "total": 215.99999999999997}, "2": {"item": "mazaa", "quantity": 11, "price": 69.0, "SP": 61.410000000000004, "total": 675.51}, "3": {"item": "butter", "quantity": 8, "price": 79.0, "SP": 79.0, "total": 632.0}, "4": {"item": "refine oil", "quantity": 10, "price": 39.0, "SP": 35.1, "total": 351.0}}
