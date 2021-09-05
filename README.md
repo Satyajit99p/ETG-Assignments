@@ -2,8 +2,8 @@
 A basic JSON based inventory management system using python dictionary.
 
 ## FEATURES
-**addition of new items or updating items' sales.**
+**1. Addition of new items or updating items' sales.**
 
-**tracking shelf life of items.**
+**2. Tracking shelf life of items.**
 
-**customer billing with all headers.**
+**3. Customer billing with all headers.**
